@@ -10,3 +10,8 @@ Bakery Sumamry -
 - Data collection from employment but put into own tables 
 - KPIs given main focus with sales being key driver
 - Able to break it down into baking groups
+
+Cereals Summarty - 
+- Data taken from the web regarding cereal prices in US$ for last 30 years
+- Visualised the said data using different formats
+- Used different calculations on the columns 
